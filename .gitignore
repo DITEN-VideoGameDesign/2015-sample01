@@ -1,0 +1,14 @@
+.vs
+*.db
+*.sdf
+*.opensdf
+*.opendb
+*.sln
+*.suo
+*.pdb
+*.log
+Binaries
+Build
+Intermediate
+Saved
+
